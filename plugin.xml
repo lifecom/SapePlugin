@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>
+	<lang name="default">Sape</lang>
+    </name>
+    <author>
+	<lang name="default">netlanc</lang>
+    </author>
+    <homepage>http://netlanc.net</homepage>
+    <version>0.1</version>
+    <requires>
+	<livestreet>0.5x</livestreet>
+    </requires>
+    <description>
+	<lang name="default">Sape</lang>
+	<lang name="russian">Sape</lang>
+    </description>
+    <settings>{role}</settings>
+</plugin>
